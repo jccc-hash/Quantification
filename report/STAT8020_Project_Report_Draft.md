@@ -1,8 +1,8 @@
 # Testing and Improving Regime-Adaptive Intraday Strategies for Hang Seng Index Futures
 
 **Course:** STAT8020 Quantitative Strategies and Algorithmic Trading  
-**Group members:** [Insert group member names]  
-**Date:** [Insert submission date]  
+**Group members:** Chow Ching In (3035018331), HU Yang (3036559409), Xu Wantong (3036580161) and Zhang Jiachang (3036512970) 
+**Date:** 30 May 2026
 
 ---
 
